@@ -1,0 +1,7 @@
+cv2
+mediapipe
+streamlit
+tempfile
+os
+numpy
+time
